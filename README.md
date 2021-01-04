@@ -37,4 +37,11 @@ Fortnite | CSGO | Rust Cheat Menus in Straight IMGUI!
 
 # Devloper: luxury cheats#1631
 
-Coming Soon Daily Updates on Release
+# Custom Items Included
+- By Me
+- Checkboxes
+- Slider's
+- Text
+- Custom Shadow Text
+
+# Coming Soon Daily Updates on Release
