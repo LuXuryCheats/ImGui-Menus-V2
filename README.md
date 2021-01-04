@@ -1,5 +1,7 @@
 # ImGui-Menus-V2
 Fortnite | CSGO | Rust Cheat Menus in Straight IMGUI!
+- This source is in no what Starter Level!
+- you must have simple knowledge of pasting.
 
 # Menu List
 
