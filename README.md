@@ -21,7 +21,6 @@ Fortnite | CSGO | Rust Cheat Menus in Straight IMGUI!
 # My Menus / Not My Menus 
 
 - Starcord Lite
-- Starcord Rogue Company // Zerax made this cheat i think its unreleased aswell.
 - Pythonz Scavengers
 
 # Finished Menus
