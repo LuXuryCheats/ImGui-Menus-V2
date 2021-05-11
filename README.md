@@ -17,3 +17,5 @@ Fortnite | CSGO | Rust Cheat Menus in Straight IMGUI!
 - tutorial
 
 # releasing tonight @ 7pm est
+
+# https://discord.gg/7dzQN2s9 Menus Discord
